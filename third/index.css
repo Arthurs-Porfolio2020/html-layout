@@ -1,0 +1,61 @@
+.yellow {
+  width: 100%;
+  height: 14vh;
+  background-color: yellow;
+  /* position: absolute;
+  bottom: 0px; */
+}
+
+.green {
+  width: 100%;
+  height: 14vh;
+  background-color: lightgreen;
+  /* position: absolute;
+  bottom: 128px; */
+}
+
+.teal {
+  width: 100%;
+  height: 14vh;
+  background-color: aquamarine;
+  /* position: absolute;
+  bottom: 256px; */
+}
+
+.blue {
+  width: 100%;
+  height: 14vh;
+  background-color: dodgerblue;
+  /* position: absolute;
+  bottom: 384px; */
+}
+
+.grey {
+  width: 100%;
+  height: 14vh;
+  background-color: lightgray;
+  /* position: absolute; */
+}
+
+.smallblue {
+  width: 6%;
+  height: 10vh;
+  background-color: dodgerblue;
+  position: relative;
+  left: 20px;
+  top: 18px;
+}
+
+p {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px;
+  font-size: 2.1em;
+}
+
+.white {
+  width: 100%;
+  height: 23vh;
+  padding: 80px 130px 0px 0px;
+}
