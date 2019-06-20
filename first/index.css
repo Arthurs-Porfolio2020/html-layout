@@ -1,0 +1,30 @@
+.class1 {
+  width: 100%;
+  height: 15vh;
+  background-color: grey;
+}
+.class2 {
+  height: 100vh;
+  width: 15vh;
+  background-color: lightgray;
+  z-index: -1;
+  display: inline-block;
+}
+
+.class3 {
+  width: 220vh;
+  height: 15vh;
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  z-index: -3;
+  display: inline-block;
+}
+.class4 {
+  width: 15vh;
+  height: 100vh;
+  background-color: lightgray;
+  position: absolute;
+  right: 0;
+  z-index: -2;
+}
